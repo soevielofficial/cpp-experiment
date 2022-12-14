@@ -1,8 +1,7 @@
+#
 <h1 align="center">Welcome to C++ Repository Learning<h1>
 
-<a href="https://visualstudio.microsoft.com/">Visual Studio 2022</a>
-
-<p>Recommended using [Visual Studio 2022](https://visualstudio.microsoft.com/) or latest<p>
+Recommended using [Visual Studio 2022](https://visualstudio.microsoft.com/) or latest
 
 # E-Book
 [Learning C++](https://drive.google.com/drive/folders/13S9wOToaqXSK0NntXl-Xd4Gd3qQaVaGD?usp=share_link)
